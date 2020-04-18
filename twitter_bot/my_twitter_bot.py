@@ -3,8 +3,8 @@ import time
 
 print("This is my twitter bot.")
 
-CONSUMER_KEY = '3YxJgJGjzwPoRWL1yxImm55Zg'
-CONSUMER_SECRET = 'hFfBPRjvkSL8wT17uf95am7nh7IIEW61RYxIB5luHAldI84vJ1'
+CONSUMER_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CONSUMER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ACCESS_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ACCESS_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
